@@ -1,0 +1,16 @@
+//! Description 
+
+//** Sass allows nesting of CSS rules, which is a useful way of organizing a style sheet.
+
+
+
+.blog-post {
+    h1 {
+        text-align: center;
+        color: blue;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
