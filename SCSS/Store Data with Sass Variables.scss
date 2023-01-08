@@ -6,9 +6,11 @@
 
 $text-color: red;
 
-  .header{
+.header {
     text-align: center;
-  }
-  .blog-post, h2 {
+}
+
+.blog-post,
+h2 {
     color: $text-color;
-  }
+}
